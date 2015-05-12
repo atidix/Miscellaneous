@@ -15,9 +15,7 @@ int main() {
   r = reverse_recurse(s, 0);
   b = addition(s, r) ; 
   cout << b ;
-    
-    return 0 ;
-
+   return 0 ;
 }
 
 int addition (int p, int q) {
